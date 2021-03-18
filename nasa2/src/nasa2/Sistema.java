@@ -55,7 +55,7 @@ public class Sistema {
 			} else {
 				System.out.println("Rotacionado");
 			}
-			
+
 			break;
 		case 2:
 			if (opcaoprincipal == 1 || opcaoprincipal == 2) {
@@ -63,7 +63,7 @@ public class Sistema {
 			} else {
 				System.out.println("Aumentado");
 			}
-			
+
 			break;
 		case 3:
 			if (opcaoprincipal == 1 || opcaoprincipal == 2) {
@@ -71,7 +71,7 @@ public class Sistema {
 			} else {
 				System.out.println("Diminuido");
 			}
-			
+
 			break;
 
 		case 9:
